@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -70,4 +72,8 @@
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
