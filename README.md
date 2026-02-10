@@ -23,6 +23,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -77,6 +78,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
