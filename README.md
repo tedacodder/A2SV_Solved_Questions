@@ -26,6 +26,7 @@
 | [0229-majority-element-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
@@ -46,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [0242-valid-anagram](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -115,6 +119,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
