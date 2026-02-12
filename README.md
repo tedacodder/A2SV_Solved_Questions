@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
