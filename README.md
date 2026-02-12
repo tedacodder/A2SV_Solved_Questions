@@ -21,6 +21,7 @@
 | [0001-two-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
