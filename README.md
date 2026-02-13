@@ -33,6 +33,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0136-single-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -137,6 +140,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
