@@ -46,6 +46,7 @@ Print a single integer — the **minimum number of moves** required to move the 
 
 ---
 
+cat << 'EOF' > examples.md
 ## 📝 Example 1
 
 ### Input
@@ -55,8 +56,9 @@ Print a single integer — the **minimum number of moves** required to move the 
 0 0 0 0 0
 0 0 0 0 0
 
-
 ### Output
+3
+
 ---
 
 ## 📝 Example 2
@@ -68,9 +70,9 @@ Print a single integer — the **minimum number of moves** required to move the 
 0 0 0 0 0
 0 0 0 0 0
 
-
 ### Output
 1
+EOF
 
 
 ---
