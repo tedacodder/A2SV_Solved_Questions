@@ -1,16 +1,20 @@
 class Solution:
     def countPairs(self, nums: List[int], k: int) -> int:
-        i=0
-        j=i+1
+        store=defaultdict(list)
         count=0
-        while i<len(nums):
-            while j<len(nums):
-                if nums[i]==nums[j]:
-                    if i*j%k==0:
-                        count+=1
-                j+=1
-            i+=1
-            j=i+1
+        for i in range(len(nums)):
+            for j in store[nums[i]]:
+                if i*j%k==0:
+                    count+=1
+            store[nums[i]].append(i)
         return count
+
+        
+        # count=0
+        # for i in range(len(nums)):
+        #     for j in range(i+1,len(nums)):
+        #         if nums[i]==nums[j] and i*j%k==0:
+        #             count+=1
+        # return count
 
         
