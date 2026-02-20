@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
@@ -38,6 +39,7 @@
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -103,6 +105,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -197,6 +200,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Recursion
 |  |
