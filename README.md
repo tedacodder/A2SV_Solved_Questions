@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -93,6 +94,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
@@ -216,4 +218,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
