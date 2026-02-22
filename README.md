@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
@@ -229,6 +230,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
