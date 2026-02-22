@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
@@ -112,6 +114,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
