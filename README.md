@@ -101,6 +101,7 @@
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
 ## Sorting
 |  |
 | ------- |
