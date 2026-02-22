@@ -24,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -224,6 +225,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
