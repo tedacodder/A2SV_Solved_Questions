@@ -62,6 +62,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2418-sort-the-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3527-find-the-most-common-response](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
@@ -93,6 +94,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2671-frequency-tracker](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -131,6 +133,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -191,6 +194,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
