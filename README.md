@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0633-sum-of-square-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
@@ -101,6 +102,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
@@ -187,6 +189,7 @@
 | [0202-happy-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
