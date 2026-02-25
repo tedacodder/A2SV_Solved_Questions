@@ -46,6 +46,7 @@
 | [0498-diagonal-traverse](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0643-maximum-average-subarray-i](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
