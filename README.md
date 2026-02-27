@@ -57,6 +57,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -268,4 +269,9 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
