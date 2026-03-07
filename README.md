@@ -232,6 +232,7 @@
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0707-design-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
 | [2671-frequency-tracker](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Randomized
 |  |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
