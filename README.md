@@ -30,6 +30,7 @@
 | [0046-permutations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
@@ -212,6 +213,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -286,6 +288,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
 |  |
