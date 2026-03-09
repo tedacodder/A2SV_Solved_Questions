@@ -159,6 +159,7 @@
 | [0020-valid-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
@@ -318,6 +319,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
