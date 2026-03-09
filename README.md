@@ -54,6 +54,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -326,6 +327,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
@@ -356,4 +358,8 @@
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
