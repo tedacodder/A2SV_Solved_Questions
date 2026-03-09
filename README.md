@@ -169,6 +169,7 @@
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [2390-removing-stars-from-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -204,6 +205,7 @@
 | [0985-sum-of-even-numbers-after-queries](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2390-removing-stars-from-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@
 | [0020-valid-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2390-removing-stars-from-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
