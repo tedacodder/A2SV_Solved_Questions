@@ -110,6 +110,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
@@ -197,6 +198,7 @@
 | [0383-ransom-note](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Simulation
@@ -249,6 +251,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Randomized
 |  |
@@ -336,6 +339,7 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -348,4 +352,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+## Queue
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
