@@ -302,6 +302,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 ## Linked List
 |  |
 | ------- |
@@ -323,4 +324,16 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
