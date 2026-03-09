@@ -169,6 +169,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0856-score-of-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
@@ -322,6 +323,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0856-score-of-parentheses](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
