@@ -253,6 +253,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
@@ -343,6 +344,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Depth-First Search
@@ -369,6 +371,7 @@
 ## Queue
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
