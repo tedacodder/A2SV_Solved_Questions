@@ -314,6 +314,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
 |  |
 | ------- |
@@ -346,14 +347,17 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Queue
 |  |
 | ------- |
