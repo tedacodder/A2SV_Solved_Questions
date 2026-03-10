@@ -53,6 +53,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0643-maximum-average-subarray-i](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -104,6 +105,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -347,12 +349,14 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
+| [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -370,4 +374,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
