@@ -285,6 +285,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
@@ -329,6 +330,7 @@
 | [0641-design-circular-deque](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 | [1472-design-browser-history](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [2390-removing-stars-from-a-string](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
