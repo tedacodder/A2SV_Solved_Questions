@@ -58,6 +58,7 @@
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -277,6 +278,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
