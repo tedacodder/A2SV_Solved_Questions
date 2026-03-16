@@ -33,6 +33,7 @@
 | [0049-group-anagrams](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
@@ -281,6 +282,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -321,6 +323,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
