@@ -16,6 +16,7 @@
 | [0633-sum-of-square-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1922-count-good-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2469-convert-the-temperature) |
@@ -300,6 +301,7 @@
 | [0203-remove-linked-list-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting Sort
 |  |
