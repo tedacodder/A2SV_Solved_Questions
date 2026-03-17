@@ -371,6 +371,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
@@ -378,6 +379,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
@@ -403,9 +405,14 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
