@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
@@ -53,6 +54,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -307,6 +309,7 @@
 | [0050-powx-n](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -340,6 +343,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0055-jump-game) |
+| [0486-predict-the-winner](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Union-Find
@@ -428,4 +432,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
