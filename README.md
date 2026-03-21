@@ -61,6 +61,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0641-design-circular-deque](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0722-remove-comments](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0739-daily-temperatures](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0739-daily-temperatures) |
@@ -289,6 +290,7 @@
 | [0073-set-matrix-zeroes](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0661-image-smoother](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
