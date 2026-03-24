@@ -25,7 +25,7 @@ class Solution:
                 q1.append(s1.right)
                 q2.append(s2.left)
                 q2.append(s2.right)
-            return True
+            return not q1 and not q2
         start=None
         r=root
         q=deque([r])
