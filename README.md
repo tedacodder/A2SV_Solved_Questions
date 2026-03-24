@@ -396,6 +396,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0547-number-of-provinces) |
 | [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0841-keys-and-rooms](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0841-keys-and-rooms) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0690-employee-importance](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 ## Memoization
@@ -442,6 +445,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 ## Game Theory
 |  |
