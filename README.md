@@ -89,6 +89,7 @@
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2418-sort-the-people](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -153,6 +154,7 @@
 | [0342-power-of-four](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
@@ -335,6 +337,7 @@
 | [0077-combinations](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [0486-predict-the-winner](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Union-Find
 |  |
 | ------- |
@@ -465,4 +469,8 @@
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/tedacodder/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
