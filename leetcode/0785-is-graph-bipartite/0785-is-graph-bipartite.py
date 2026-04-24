@@ -18,4 +18,6 @@ class Solution:
                     elif color[nei] == color[node]:
                         return False
 
+        
+
         return True
